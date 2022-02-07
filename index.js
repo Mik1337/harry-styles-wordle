@@ -1445,6 +1445,7 @@
         "hotel",
         "carol",
         "ghost",
+        "treat",
       ],
       Ta = [
         "cigar",
